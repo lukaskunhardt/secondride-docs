@@ -2,6 +2,4 @@
 
 Welcome to the Second Ride site! Here you'll find build guides, setup instructions, and troubleshooting steps for Second Ride products. 
 
-## I have an issue with my motor
-
-False. They never break.
+# Test
