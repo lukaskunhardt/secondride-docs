@@ -55,5 +55,4 @@ Changes to the main branch are automatically deployed to the live site.
 
 For questions about SecondRide or this documentation:
 - Browse the [FAQ section](https://docs.second-ride.de/faq/)
-- Check our [User Guides](https://docs.second-ride.de/guides/)
 - Contact support through the SecondRide platform
