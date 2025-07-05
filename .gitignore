@@ -72,3 +72,6 @@ venv/
 
 # IDE settings
 .vscode/
+
+.env
+start.sh
